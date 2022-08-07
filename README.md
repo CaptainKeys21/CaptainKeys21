@@ -1,6 +1,6 @@
 ## Bom Dia!
 
-Meu nome é Pedro Chaves. Tenho 19 anos e moro em Santa Catarina e atualmente trabalho consertando bugs em adicionando features em um projeto legado.
+Meu nome é Pedro Chaves. Tenho 19 anos, moro em Santa Catarina e atualmente trabalho consertando bugs em adicionando features em um projeto legado.
 
 Embora eu gosto e trabalho com desenvolvimento web, ainda tenho muita vontade de futuramente começar a trabalhar com desenvolvimento de jogos.
 
